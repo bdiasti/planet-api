@@ -51,11 +51,11 @@ Instalação
 
 A documentação da API pode ser acessada e pode ser realizado testes no endereço:
 
-http://planet-service.tk:8080/swagger-ui.html
+http://planet-service.gq:8080/swagger-ui.html
 
 Para testar o load balance
 
-http://planet-service.tk/planet-api/planet/
+http://planet-service.gq/planet-api/planet/
 
 
 Instalação Docker
